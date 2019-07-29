@@ -38,8 +38,7 @@ public class Calculator {
     public static int add(int x, int y)
     {
     	int result=0;
-//        write your code here 
-    	
+//        write your code here 	
         return result;
     }
     public static int sub(int x, int y)
